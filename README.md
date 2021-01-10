@@ -12,13 +12,22 @@
 
 ## Track C Stage One
 |Project name|Mark|
-|----------------|---|
+|-------|---|
 |Warm-Up|100|
 |Sprint00|63|
 |Sprint01|71|
-|Sprint02 Marathon C|The challenge to refresh all the knowledge you have gained at Marathon C.|✔|
-|Sprint03|Create your own C library.|✔|
-|Sprint04|Learn pathfinding algorithms.|✔ |
-|Sprint05|Recode the system's utility ls.|✔|
-|Ush|Develop your own shell.|✔|
-|Uchat|Create a real-time communication tool using creativity and the whole cycle of Challenge Based Learning framework.|✔|
+|Sprint02|85|
+|Sprint03|90|
+|Sprint04|82|
+|Sprint05|78|
+|Sprint06|90|
+|Sprint07|79|
+|Sprint08|85|
+|Sprint09|78|
+|Sprint10|70|
+|Sprint11|89|
+|Race00|99|
+|Race01||
+|Race02|97|
+|Race03|100|
+|EndGame|104|
