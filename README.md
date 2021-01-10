@@ -10,14 +10,15 @@
 </p>
 
 
-## Track C
-|Project name|Description|Process|
-|----------------|----------------------------------------------------|---|
-|Marathon C|Learning C|✔|
-|Endgame|Create a game on C|✔|
-|Refresh Marathon C|The challenge to refresh all the knowledge you have gained at Marathon C.|✔|
-|Libmx|Create your own C library.|✔|
-|Pathfinder|Learn pathfinding algorithms.|✔ |
-|Uls|Recode the system's utility ls.|✔|
+## Track C Stage One
+|Project name|Mark|
+|----------------|---|
+|Warm-Up|100|
+|Sprint00|63|
+|Sprint01|71|
+|Sprint02 Marathon C|The challenge to refresh all the knowledge you have gained at Marathon C.|✔|
+|Sprint03|Create your own C library.|✔|
+|Sprint04|Learn pathfinding algorithms.|✔ |
+|Sprint05|Recode the system's utility ls.|✔|
 |Ush|Develop your own shell.|✔|
 |Uchat|Create a real-time communication tool using creativity and the whole cycle of Challenge Based Learning framework.|✔|
