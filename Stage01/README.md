@@ -27,7 +27,7 @@
 |Sprint10|70|
 |Sprint11|89|
 |Race00|99|
-|Race01||
+|Race01|55|
 |Race02|97|
 |Race03|100|
 |EndGame|104|
