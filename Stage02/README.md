@@ -16,6 +16,6 @@
 |Refresh Marathon C|100|
 |Libmx|95|
 |Pathfinder|99|
-|Uls|..| 
+|Uls|125| 
 |Ush|..|
 |Uchat|..|
