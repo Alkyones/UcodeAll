@@ -1,0 +1,64 @@
+thead {
+    background-color: #000;
+    color: rgb(255, 255, 255);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr.soul {
+    background-color: rgba(243, 179, 60, 0.924);
+}
+
+tr.time {
+    background-color: rgb(57, 128, 57);
+}
+
+tr.space {
+    background-color: rgb(93, 93, 190);
+}
+
+tr.mind {
+    background-color: rgb(211, 211, 57);
+}
+
+tr.reality {
+    background-color: rgb(192, 45, 45);
+}
+
+tr.power {
+    background-color: rgb(132, 86, 170);
+}
+
+tr, th {
+    text-align: center;
+}
+
+.name, .color {
+    width: 80px;
+}
+
+tr th:first-child, tr td:first-child {
+    width: 80px;
+}
+
+th, td {
+    border: none;
+}
+
+img {
+    height: 120px;
+    width: 120px;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.link td {
+    height: 30px;
+}
+
+td {
+    border: 2px solid #e0e0e0;
+    padding: 10px;
+}

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Superhero application</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <h1>Superhero Form</h1>
+
+    <form>
+        <fieldset>
+            <legend>About the Superhero</legend>
+
+            <div class="form-group">
+                <label for= "real-name">Real Name</label>
+                <input type= "text" placeholder= "Superhero Real Name" id= "real-name" autofocus required>
+                <label for= "ralias">Superhero Name</label>
+                <input type= "text" placeholder= "Superhero Nick" id= "Nick">
+                <label for="age">Age</label>
+                <input type="number" placeholder="Age" id="age" min="1" max="999">
+            </div>
+            
+            <div class="form-group">
+                <label for="about">About</label>
+                <textarea id="about" maxlength="500" rows="5" cols="70" placeholder="Information about the suerhero, max 500 symbols"></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="photo">Photo</label>
+                <input type="file" placeholder="Choose file">
+            </div>
+        </fieldset>
+
+        <fieldset>
+            <legend>Powers</legend>
+
+            <div class="form-group">
+                <label for="Mind Reading">Mind Reading</label>
+                <input type="checkbox" id="Mind Reading">
+                <label for="Invinsibilty">Invinsibilty</label>
+                <input type="checkbox" id="Invinsibilty">
+                <label for="Shapeshiping">Shapeshiping</label>
+                <input type="checkbox" id="Shapeshiping">
+                <label for="flying">Flying</label>
+                <input type="checkbox" id="Flying">
+                <label for="Magic">Magic Casting</label>
+                <input type="checkbox" id="Magic Casting">
+                <label for="ETC">Other</label>
+                <input type="checkbox" id="ETC">
+            </div>
+
+            <div class="form-group">
+                <label for="level">Level of control</label>
+                <input type="range" id="level" min="0" max="10" value="1">
+            </div>
+        </fieldset>
+
+        <fieldset>
+            <legend>Origin of Powers</legend>
+
+            <div class="form-group">
+                <label for="By Birth">Talented</label>
+                <input type="radio" id="Talented name="origin">
+                <label for="Gained">Somehow gained</label>
+                <input type="radio" id="Gained" name="origin">
+                <label for="Lucky">Got by chance</label>
+                <input type="radio" id="Lucky" name="origin">
+                <label for="not-human">The Superhero is not human</label>
+                <input type="radio" id="not-human" name="origin">
+                <label for="ETC">ETC</label>
+                <input type="radio" id="ETC" name="origin">
+            </div>
+        </fieldset>
+
+        <button type="reset">Clear</button>
+        <button type="submit">Send</button>
+    </form>
+</body>
+
+</html>

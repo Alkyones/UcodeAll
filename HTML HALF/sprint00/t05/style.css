@@ -1,0 +1,21 @@
+h1 {
+    display: flex;
+    white-space: nowrap;
+    justify-content: center;
+    align-items: flex-end;
+    width: 100%; 
+     
+    
+    font-size: 4em;
+    font-family: "Arial";
+    
+    background-color: red;
+    
+    
+}
+
+span {
+    position: relative;
+    bottom: -16px;
+    color: rgb(253, 253, 253);
+}
